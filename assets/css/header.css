@@ -54,8 +54,8 @@
     margin-right: .5rem;
 }
 
-.information .job::before {
-    background-image: url('../img/icons/job.svg');
+.information .education::before {
+    background-image: url('../img/icons/education.svg');
 }
 
 .information .location::before {
